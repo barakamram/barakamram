@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=barakamram.barakamram)
 
-#### 👨‍🎓 *Hello! I'm Barak, a Computer Science & Mathematics student 3rd year)*
+#### 👨‍🎓 *Hello! I'm Barak, a Computer Science & Mathematics student (3rd year)*
 #### 💼 *Actively seeking for a student/full-time role as Front-End/Full-Stack/Unity Developer*
 
 ##### 💬 Contact me:
