@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=barakamram.barakamram)
 
 #### 👨‍🎓 *Hello! I'm Barak, a Computer Science & Mathematics student 3rd year)*
-#### 💼 *Actively seeking for a student/full-time role as Front-End/Full-Stack Developer*
+#### 💼 *Actively seeking for a student/full-time role as Front-End/Full-Stack/Unity Developer*
 
 ##### 💬 Contact me:
 <a href="https://www.linkedin.com/in/barak-amram-a7a329227/" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:barak55amram@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
