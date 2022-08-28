@@ -40,6 +40,13 @@
 <a href="https://heroku.com/" title="Heroku"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/heroku.svg" alt="Heroku" width="40" height="40"/></a>
 <br />
 
+## 📊 *GitHub Stats:*
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=barakamram&show_icons=true&theme=chartreuse-dark&layout=compact&line_height=20" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barakamram&theme=chartreuse-dark&layout=compact" />
+</a>
 
 <!--
 **barakamram/barakamram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
