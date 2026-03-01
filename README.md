@@ -8,7 +8,6 @@ I specialize in building robust backend architectures, dynamic user interfaces, 
 
 - 💼 **By day:** Working as a Full-Stack Developer, building strong backends with **.NET C#** and responsive frontends using **React & React Native**.
 - 🤖 **By night:** Developing AI-driven autonomous systems, multi-agent workflows (Python, CrewAI, LangGraph), and AI web apps.
-- 🔭 **Currently building:** **PropTech_AI** (An automated real estate analysis engine) and **DateHub**.
 - 🎵 **Fun fact:** I'm also a music producer! I love bridging the gap between code and sound, currently developing an automated AI Vocal Engine.
 
 ##### 💬 Let's Connect:
