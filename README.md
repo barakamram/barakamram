@@ -46,13 +46,4 @@ I specialize in building robust backend architectures, dynamic user interfaces, 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/barakamram">
-    <img src="https://github-readme-stats.vercel.app/api?username=barakamram&show_icons=true&theme=tokyonight&layout=compact&line_height=20" alt="Barak's GitHub Stats" />
-  </a>
-  <a href="https://github.com/barakamram">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barakamram&langs_count=6&theme=tokyonight&layout=compact" alt="Top Languages" />
-  </a>
-</div>
