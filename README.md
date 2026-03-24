@@ -3,29 +3,34 @@
 
 ### Full-Stack (Backend Oriented) Developer | Systems Architect & AI Orchestration
 
-I engineer robust, high-performance backend architectures and orchestrate complex Artificial Intelligence workflows. With a dual-major **B.Sc. in Computer Science & Mathematics**, my focus is on bridging deep algorithmic logic with scalable, commercially viable software solutions.
+I architect data-intensive core systems, FinTech platforms, and complex RESTful APIs. With a dual-major **B.Sc. in Computer Science & Mathematics**, my focus is on bridging deep algorithmic logic with scalable, commercially viable software solutions. I specialize in deploying privacy-preserving local LLMs and integrating autonomous multi-agent pipelines to automate workflows and drive strict OPEX reduction.
 
 ---
 
 ### 🏗️ Core Engineering Competencies
 
 - **Backend & API Architecture:** Designing high-throughput, secure, and scalable microservices and monolithic backends utilizing **.NET C#**.
-- **AI Infrastructure & Local Serving:** Architecting and deploying local Large Language Models (LLMs) via **vLLM** and **Docker**, optimizing for strict hardware constraints and minimal latency.
-- **Agentic Orchestration:** Building autonomous multi-agent pipelines and reasoning engines using **Python**, **CrewAI**, and **LangGraph**.
+- **AI Infrastructure & Local Serving:** Architecting and deploying air-gapped Large Language Models (LLMs) via **vLLM** and **Docker**, optimizing for strict hardware constraints and minimal latency.
+- **Agentic Orchestration:** Integrating autonomous multi-agent pipelines and reasoning engines using **Python**, **CrewAI**, and **LangGraph**.
 - **Frontend Ecosystems:** Delivering responsive, state-driven user interfaces across web and mobile utilizing **React & React Native**.
 - **Signal Processing (DSP):** Leveraging mathematical modeling and audio engineering to develop automated, AI-driven vocal processing engines.
 
 ---
 
-### 🔬 Private R&D Lab & Operations
+### 🏢 Enterprise Experience
 
-I operate a dedicated research and development lab focused on edge-computing, AI integrations, and architectural design:
+- **Enterprise FinTech Architecture:** Architecting and maintaining complex B2B2C platforms, integrating legacy systems, and engineering highly secure daily data aggregation pipelines. Taking full technical ownership from database design to API deployment.
 
-- **Large-Scale Platform Architecture:** Architecting a comprehensive, high-concurrency system from the ground up, enforcing strict separation of concerns, CI/CD practices, and robust relational data models.
-- **Local AI Infrastructure:** Architecting, deploying, and stress-testing local Large Language Models on raw GPU hardware. Focusing on zero-trust security, VRAM optimization, and maximizing Token-To-First-Token (TTFT) performance.
-- **Autonomous Multi-Agent Systems:** Designing self-correcting, agentic workflows to automate complex architectural decisions and code generation.
-- **Advanced Signal Processing (DSP + ML):** Developing an automated audio processing architecture that bridges mathematical signal processing with machine learning algorithms.
-- 
+---
+
+### 🔬 Independent AI Infrastructure Lab
+
+To stay at the bleeding edge of AI hardware capabilities, I operate a private, hardware-focused research environment dedicated purely to model inference, benchmarking, and infrastructure optimization:
+
+- **Local AI Inference:** Deploying and stress-testing Large Language Models on raw GPU hardware. Focusing on zero-trust security, VRAM allocation optimization, and maximizing Token-To-First-Token (TTFT) throughput.
+- **Agentic Evaluation:** Running and analyzing local inference capabilities for autonomous frameworks (CrewAI, LangGraph) under strict hardware constraints.
+- **DSP Mathematical Modeling:** Researching and testing audio processing algorithms against machine learning baselines.
+
 ---
 
 ##### 💬 Let's Connect:
