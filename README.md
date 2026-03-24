@@ -1,14 +1,32 @@
-### Hi there 👋
-
+# Barak Amram
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=barakamram.barakamram)
 
-#### 👨‍💻 Hello! I'm Barak, a Full-Stack Developer & AI Systems Builder
+### Full-Stack (Backend Oriented) Developer | Systems Architect & AI Orchestration
 
-I specialize in building robust backend architectures, dynamic user interfaces, and intelligent, agentic workflows. 
+I engineer robust, high-performance backend architectures and orchestrate complex Artificial Intelligence workflows. With a dual-major **B.Sc. in Computer Science & Mathematics**, my focus is on bridging deep algorithmic logic with scalable, commercially viable software solutions.
 
-- 💼 **By day:** Working as a Full-Stack Developer, building strong backends with **.NET C#** and responsive frontends using **React & React Native**.
-- 🤖 **By night:** Developing AI-driven autonomous systems, multi-agent workflows (Python, CrewAI, LangGraph), and AI web apps.
-- 🎵 **Fun fact:** I'm also a music producer! I love bridging the gap between code and sound, currently developing an automated AI Vocal Engine.
+---
+
+### 🏗️ Core Engineering Competencies
+
+- **Backend & API Architecture:** Designing high-throughput, secure, and scalable microservices and monolithic backends utilizing **.NET C#**.
+- **AI Infrastructure & Local Serving:** Architecting and deploying local Large Language Models (LLMs) via **vLLM** and **Docker**, optimizing for strict hardware constraints and minimal latency.
+- **Agentic Orchestration:** Building autonomous multi-agent pipelines and reasoning engines using **Python**, **CrewAI**, and **LangGraph**.
+- **Frontend Ecosystems:** Delivering responsive, state-driven user interfaces across web and mobile utilizing **React & React Native**.
+- **Signal Processing (DSP):** Leveraging mathematical modeling and audio engineering to develop automated, AI-driven vocal processing engines.
+
+---
+
+### 🔬 Private R&D Lab & Operations
+
+I operate a dedicated research and development lab focused on edge-computing, AI integrations, and architectural design:
+
+- **Large-Scale Platform Architecture:** Architecting a comprehensive, high-concurrency system from the ground up, enforcing strict separation of concerns, CI/CD practices, and robust relational data models.
+- **Local AI Infrastructure:** Architecting, deploying, and stress-testing local Large Language Models on raw GPU hardware. Focusing on zero-trust security, VRAM optimization, and maximizing Token-To-First-Token (TTFT) performance.
+- **Autonomous Multi-Agent Systems:** Designing self-correcting, agentic workflows to automate complex architectural decisions and code generation.
+- **Advanced Signal Processing (DSP + ML):** Developing an automated audio processing architecture that bridges mathematical signal processing with machine learning algorithms.
+- 
+---
 
 ##### 💬 Let's Connect:
 <a href="https://www.linkedin.com/in/barak-amram-a7a329227/" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
@@ -16,7 +34,15 @@ I specialize in building robust backend architectures, dynamic user interfaces, 
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Infrastructure
+
+### ⚙️ Backend, AI & Architecture
+<a href="https://dotnet.microsoft.com/" title=".NET"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" title="C#"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="c-sharp" width="40" height="40"/> </a>
+<a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/" title="Node.js"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 ### 🌐 Frontend
 <a href="https://reactjs.org/" title="React.js + React Native"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="40" height="40"/></a>
@@ -24,26 +50,17 @@ I specialize in building robust backend architectures, dynamic user interfaces, 
 <a href="https://developer.mozilla.org/he/docs/Web/HTML" title="HTML5"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="40" height="40"/></a>
 
-### ⚙️ Backend & AI
-<a href="https://www.w3schools.com/cs/" title="C#"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="c-sharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" title=".NET"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
-<a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/" title="Node.js"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
-<a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 <a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" title="MySQL"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://neo4j.com/" title="Neo4j"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/neo4j.svg" alt="neo4j" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" title="Firebase"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/></a>
 
-### 🛠 Tools & Environments
+### 🛠 DevOps, Tools & Environments
+<a href="https://www.docker.com/" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" title="Git"> <img src="https://github.com/Jewgah/MyIcons/blob/master/git.svg" alt="Git" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Linux" title="Linux"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="40" height="40"/></a>
 
 ---
-
-
